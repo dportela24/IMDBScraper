@@ -31,7 +31,7 @@ A TVSeries object is the final result of the scraping process.
 As the name says, it represents a tv series and contains all its concerning information, including its series and episodes.
 
 The TVSeries object follows the following (partial) structure.
-A complete representation of a TVSeries object is available here.
+A complete representation of a TVSeries object is available [here](https://github.com/dportela24/IMDBScrapper/blob/main/example_result).
 
 ```json
 {
